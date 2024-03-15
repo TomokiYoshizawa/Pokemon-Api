@@ -1,8 +1,10 @@
 .card {
+  height: 300px;
   width: 290px;
   box-shadow: 0px 0px 15px 17px #777777;
   border-radius: 10px;
   background-color: aliceblue;
+  overflow-y: scroll;
 
   &__name {
     padding: 0;
